@@ -1,0 +1,69 @@
+Backup database with
+
+create folder backup in app/assets folder
+
+cp db/development.sqlite3 app/assets/backup/
+
+zip up folder in projects
+
+tar cvf new name.tar dirname
+
+tar cvf codenvy-golfstore.tar golfstore
+
+
+Item 1
+
+TitleList 712 MB Irons
+
+The Titlist MB 712 irons built upon the successful tour-proven design of the 710 MB irons with improved looks, feel and performance.
+
+899
+
+titleistmb712.jpg
+
+Irons
+
+Titliest
+
+Item 2
+
+R115 Fairway 3 Wood
+
+R11S fairway woods improve on the adjustability established in R11 fairways. R11S fairways combine Adjustable Sole Plate Technology (ASP) in a high-performance steel fairway wood. The combination of ASP and FCT gives the player 24 ways to set up the R11S fairway
+
+229.95
+
+TaylorMadeR11s.jpg
+
+Woods
+
+Taylormade
+
+Item 3
+
+Mizuno Mp 630 Fast Track Driver
+
+Slightly open at address, with powerful pear shaped profile and thuming feedback, The MP-630 FAST TRACK inspires imagination from the tree. While designed to suit the eye of stronger players, the shallower design and 445cc size will attract a broad range of abilities.
+
+249.99
+
+mizunoFastTrack.jpg
+
+Drivers
+
+Mizuno
+
+Item 4
+
+Bushnell Range Finder 1600 Tournament Edition
+
+More modes, fewer strokes and legal for tournament play the new Pro 1600 Tournament Edition with PinSeeker* is the ultra-accurate laser rangefinder more pros trust their game to any other. Our PinSeeker Technology allows for easy acquisation of the flag without inadvertently capturing background target distances.
+
+399
+
+Bushnell.jpg
+
+Accessories
+
+Bushnell
+

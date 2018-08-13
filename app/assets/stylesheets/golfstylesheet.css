@@ -46,7 +46,9 @@ div#content {
     background-image: url("bg3.gif");
     border: 1px solid gray;
     min-height: 850px;
-    width: 700px;
+     max-width: 1024px;
+    min-width: 750px;
+    margin: auto;
 }
 div#header,
 div#footer,
@@ -81,6 +83,7 @@ div#header {
 div#footer {
     border-top: none;
     color:white;
+    text-align: center; 
    
 }
 

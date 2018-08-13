@@ -38,4 +38,18 @@ class CartController < ApplicationController
         @cart = {}
       end  
   end
+  
+  # def add
+    # @cart.add_item params[:title]
+    #session["cart"] = @cart.serialize
+    #item = Item.find params[:title]
+
+    #title.update_columns(stock_quantity: title.quantity - 1)
+
+    #redirect_to :back, notice: "Added #{title.name} to cart."
+ #end
+ 
+ 
+ 
+  
 end

@@ -16,14 +16,23 @@
         </td>
         <td>
             <div class="title">
+            <h4>Type</h4>
                 <%= link_to item.title ,item %>    
-            </div>       
+            </div> 
+           
             <div class="description">
+             <h4>Description</h4>
                 <%= link_to item.description ,item %>    
             </div>       
             <div class="price">
+             <h4>Price</h4>
                 <%= link_to item.price ,item %>    
             </div>
+                <div class="season">
+             <h4>Season</h4>
+                <%= link_to item.brand ,item %>    
+            </div>
+            <br>
             <div class="links">
                 <% if session[:login] == 1 %>
                     <%= link_to 'Edit', edit_item_path(item) %>
